@@ -57,6 +57,7 @@ In the Terminal:
 
 `python3 --version`
 
+>> ```
 >> Python 3.6.3 :: Anaconda, Inc.
 
  
