@@ -70,7 +70,9 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > By default `xargs` passes an `echo` command over its input, but more commonly you can specify the command that it executes and pass it over multiple files.  
+> > ex.1) `$ echo test | xargs` yields output `test`  
+> > ex.2) `$ find . -name '*.py' | xargs rm` will find all files with extension .py in the current directory, then remove them.
 
  
 
