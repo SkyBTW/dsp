@@ -44,9 +44,8 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > ls -> lists contents of current directory 
+> > ls -> lists contents of current directory
 > > ls -a -> lists visable and hidden files
-
 > > ls -l -> long listing
 > > ls -lh -> list with unit suffixes
 > > ls -lah -> long list including hidden files, with human readable sizes
