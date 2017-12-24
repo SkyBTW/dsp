@@ -20,7 +20,16 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > 1) pwd -> show current working directory path
+> > 2) mkdir <file> -> creating a directory
+> > 3) rmdir <file> -> deleting a directory
+> > 4) touch <file> -> creating a file using `touch` command
+> > 5) rm <file> -> deleting a file
+> > 6) mv <source path(name)> <destination path(name)> -> renaming a file
+> > 7) ls -a -> long list including hidden files
+> > 8) cp <source path> <destination path> -> copying a file from one directory to another
+> > 9) man <command> -> opens command manual
+> > 10) file <file path> -> yields type of file
 
 ---
 
@@ -35,7 +44,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > `ls`  -> lists contents of current directory
+> > `ls -a`  -> lists visable and hidden files
+> > `ls -l`  -> long listing
+> > `ls -lh`  -> list with unit suffixes
+> > `ls -lah`  -> long list including hidden files, with human readable sizes
+> > `ls -t`  -> sort by time modified
+> > `ls -Glp` -> long list with no group names and a directory indicator
 
 ---
 
@@ -43,7 +58,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > 1) ls -R -> lists subdirectories
+> > 2) ls -1 -> list with each entry on a separate line
+> > 3) ls -p -> tags directories in the list with a '/'
+> > 4) ls -g -> long list while surpressing owner name
+> > 5) ls -m -> single line list with files eparated by commas
 
 ---
 
