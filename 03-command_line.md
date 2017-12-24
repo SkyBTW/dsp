@@ -44,13 +44,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > `ls`  -> lists contents of current directory
-> > `ls -a`  -> lists visable and hidden files
-> > `ls -l`  -> long listing
-> > `ls -lh`  -> list with unit suffixes
-> > `ls -lah`  -> long list including hidden files, with human readable sizes
-> > `ls -t`  -> sort by time modified
-> > `ls -Glp` -> long list with no group names and a directory indicator
+> > ls -> lists contents of current directory
+> > ls -a -> lists visable and hidden files
+> > ls -l -> long listing
+> > ls -lh -> list with unit suffixes
+> > ls -lah -> long list including hidden files, with human readable sizes
+> > ls -t -> sort by time modified
+> > ls -Glp -> long list with no group names and a directory indicator
 
 ---
 
@@ -58,11 +58,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > 1) 'ls -R' -> lists subdirectories
-> > 2) 'ls -1' -> list with each entry on a separate line
-> > 3) 'ls -p' -> tags directories in the list with a '/'
-> > 4) 'ls -g' -> long list while surpressing owner name
-> > 5) 'ls -m' -> single line list with files eparated by commas
+> > 1) ls -R -> lists subdirectories
+> > 2) ls -1 -> list with each entry on a separate line
+> > 3) ls -p -> tags directories in the list with a '/'
+> > 4) ls -g -> long list while surpressing owner name
+> > 5) ls -m -> single line list with files eparated by commas
 
 ---
 
