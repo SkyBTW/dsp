@@ -100,7 +100,7 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> It seems to me that frequentist statistics are foundational in nature, holding true to rigid models, and maintaining a high degree of objectivity, resulting in consistent predictions. Bayesian statistics is very contextual in nature, incorporating historal results and adjusting predictions based on newly observed outcomes. Bayesian statistics can require a large amount of computing power/legwork to complete all of the necessary calculations, and it results in a loss of objectivity, in that different people can calculate different estimates based on the same original data.
 
 ---
 
